@@ -14,7 +14,7 @@ bu repo [kodluyoruz](www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz 
 
 
 
-\```git clone https://github.com/yasinbas1/kodluyoruzilkrepo.git```
+```git clone https://github.com/yasinbas1/kodluyoruzilkrepo.git```
 
 
 
@@ -26,9 +26,9 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-\```cd kodluyoruzilkrepo```
+```cd kodluyoruzilkrepo```
 
-\```code . ```
+```code . ```
 
 **# Contributing**
 
